@@ -39,8 +39,7 @@ header {
     color: #fff;
     font-size: 13px;
     line-height: 24px;
-}
-a {
+}.primary_btn {
     text-decoration: none;
     color: #034a9b;
     background-color: #fff;
@@ -186,7 +185,4 @@ input {
     border-radius: 5px;
     color: aliceblue;
     width: 100%;
-}
-.icon {
-
 }
